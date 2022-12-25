@@ -1,6 +1,10 @@
 # Job Scheduler
 IOS app created in swift made to help keep track of tasks that needs to be completed
 
+
+![](https://i.imgur.com/7a6ajpx.gif)
+
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -21,10 +25,7 @@ The job scheduler app is designed to track, organize, and manage the different j
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories**
-
+### 1. User Stories 
 - [x] User registers as a manager
 
 - [x] User registers as an employee
@@ -116,11 +117,6 @@ Employee
 
 ## Wireframes
 <img src="https://i.imgur.com/b9r5YGN.png" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/b9r5YGN.png" width=600>
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 ### Models
@@ -428,65 +424,3 @@ Employee
                 print(“Error”)
         }
         ```
-
-## Unit 10 Milestone 
-
-### Completed user stories
-
-- [x] User registers as a manager
-
-- [x] User registers as an employee
-
-- [x] User manager logs in and sees the list of jobs.
-
-- [x] User manager clicks on the create job button and creates a job from the create job view. Manager must be able to select a job name, add tasks, and add an assignee. Adding an assignee at this point is optional. The status of the job will be assigned automatically when selecting an assignee. The possible status of a job are: “created”, “assigned”, “in-progress”, and “completed”. 
-
-- [x] User manager clicks on a job from the job listing and gets redirected to the job details view. User is able to see the detailed information about a job
-
-
-### Gif Showing Progress
-<img src="http://g.recordit.co/XpiQQzzOh2.gif" width=600>
-
-
-## Unit 11 Milestone 
-
-### Completed user stories
-
-- [x] User manager clicks on a job from the job listing and gets redirected to the job details view. User is able to see the detailed information about a job with the correct information matching the selected job
-
-- [x] User clicks on the comments icon from the job detail view, and gets redirected to the comments view. As a manager, I want to be able to add comments to a job after the time of creating it, so that I can keep up to date on the job and ask for progress reports. As an employee, they need to be able to reply to these comments and provide feedback to newly posted comments on the job.
-
-- [x] User clicks on the activity icon from the job detail view, and gets redirected to the activity view. User is able to see the list of status activities for that job.
-
-
-### Gif Showing Progress
-<img src="http://g.recordit.co/ABmfSqOsew.gif" width=600>
-
-
-## Unit 12 Milestone 
-
-### Completed user stories
-
-- [x] User employee logs in and sees the list of jobs assigned to him/her. An employee can only see jobs assigned to him/her.
-
-- [x] User can edit a job
-
-- [x] In-progress general app beautification. Correcting margins, paddings, colors, etc.
-
-
-### Gif Showing Progress
-<img src="http://g.recordit.co/uoeQRwyor2.gif" width=600>
-
-
-## Unit 13 Milestone 
-
-### Completed user stories
-
-
-- [x] User can change status of a job to in progress or complete from the job details view
-
-- [x] Overall UI enhancements to all screens in preparation for demo day
-
-
-### Gif Showing Progress
-<img src="http://g.recordit.co/VLPJWgCQAZ.gif" width=600>
