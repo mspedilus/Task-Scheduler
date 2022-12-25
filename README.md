@@ -1,8 +1,9 @@
 # Job Scheduler
-IOS app created in Swift with Parse backend made to help keep track of tasks that needs to be completed
+IOS app created in swift made to help keep track of tasks that needs to be completed
 
+#Video Walkthrough
 
-![](https://i.imgur.com/7a6ajpx.gif)
+![](https://i.imgur.com/qvWj1ZT.gif)
 
 
 ## Table of Contents
