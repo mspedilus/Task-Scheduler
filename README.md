@@ -1,5 +1,5 @@
-# Job Scheduler
-IOS app created in swift made to help keep track of tasks that needs to be completed
+# Task Scheduler
+Task Scheduler is an iOS app created using Swift with Parse backend. It's designed to track, organize, and manage the different jobs assigned to employees. Managers are able to create and assign jobs/tasks to their subordinates, track the status, and view comments about the job. Subordinates are able to view their list of assigned jobs, change the status (assigned, in-progress, completed), and add comments to the job. This app could be used as a means to manage grievances made to companies or as a way to manage software bugs.
 
 ### Video Walkthrough
 
@@ -13,9 +13,6 @@ IOS app created in swift made to help keep track of tasks that needs to be compl
 2. [Schema](#Schema)
 
 ## Overview
-### Description
-The job scheduler app is designed to track, organize, and manage the different jobs assigned to employees. Managers are able to create and assign jobs/tasks to their subordinates, track the status, and view comments about the job. Subordinates are able to view their list of assigned jobs, change the status (assigned, in-progress, completed), and add comments to the job. This app could be used as a means to manage grievances made to companies or as a way to manage software bugs.
-
 ### App Evaluation
 - **Category:** Business / Productivity
 - **Mobile:** This app would be primarily developed for iOS devices.
