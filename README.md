@@ -22,7 +22,7 @@ Task Scheduler is an iOS app created using Swift with Parse backend. It's design
 - **Scope:** First we would start with the job scheduling features and then perhaps expand the app to include communication between other employees and departments. This app is intended for small companies or groups of people not wanting to use bigger solutions like Jira, Clickup, etc, looking to better manage and organize job assignments.
 
 ## Product Spec
-
+ 
 ### 1. User Stories 
 - [x] User registers as a manager
 
